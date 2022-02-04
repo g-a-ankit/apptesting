@@ -1,1 +1,1 @@
-@g-a-ankit/emojifier-demo
+@g-a-ankit/emojifier-demo==1.0.0
